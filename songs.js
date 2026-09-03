@@ -16,13 +16,13 @@
 */
 
 const songs = [
-  { title: 'Хоп Хей Лала-Лей', artist: 'Леонид Агутин', lyricsFile: '01.txt' },
-  { title: 'Катюша', artist: 'Песня военных лет', lyricsFile: '02.txt' },
+   { title: 'Хоп Хей Лала-Лей', artist: 'Леонид Агутин', lyricsFile: '01.txt' },
+  { title: 'Катюша', artist: 'Валентина Батищева', lyricsFile: '02.txt' },
   { title: 'Седая ночь', artist: 'Юрий Шатунов', lyricsFile: '03.txt' },
   { title: 'Знаешь ли ты', artist: 'МакSим', lyricsFile: '04.txt' },
   { title: 'Трава у дома', artist: 'Земляне', lyricsFile: '05.txt' },
-  { title: 'Комсомольск-на-Амуре', artist: 'Штурм', lyricsFile: '06.txt' },
-  { title: 'Осень', artist: 'ДДТ', lyricsFile: '07.txt' },
+  { title: 'Комсомольск-на-Амуре', artist: 'Наталья Штурм', lyricsFile: '06.txt' },
+  { title: 'Что такое осень', artist: 'ДДТ', lyricsFile: '07.txt' },
   { title: 'Зеленоглазое такси', artist: 'Михаил Боярский', lyricsFile: '08.txt' },
   { title: 'Твори добро', artist: 'Шура', lyricsFile: '09.txt' },
   { title: 'Районы-кварталы', artist: 'Звери', lyricsFile: '10.txt' },
