@@ -27,7 +27,7 @@ const songs = [
   { title: 'Твори добро', artist: 'Шура', lyricsFile: '09.txt' },
   { title: 'Районы-кварталы', artist: 'Звери', lyricsFile: '10.txt' },
   { title: 'А на море белый песок', artist: 'Жанна Фриске', lyricsFile: '11.txt' },
-  { title: 'О Боже, какой мужчина!', artist: 'Натали', lyricsFile: '12.txt' },
+  { title: 'О, Боже, какой мужчина!', artist: 'Натали', lyricsFile: '12.txt' },
   { title: 'Течёт ручей', artist: 'Надежда Кадышева', lyricsFile: '13.txt' },
   { title: 'Кукла колдуна', artist: 'Король и Шут', lyricsFile: '14.txt' },
   { title: 'Владивосток 2000', artist: 'Мумий Тролль', lyricsFile: '15.txt' },
